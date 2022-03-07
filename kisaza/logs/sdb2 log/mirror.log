@@ -1,0 +1,18 @@
+** Sat Jun 19 01:26:36 2021: (1624055196.39) Mirror Job ---DailyJobs--- starting.
+** Sat Jun 19 01:26:36 2021: (1624055196.4) Mirror / to /OS_Copies/MainServerCopy starting.
+++ Sat Jun 19 01:28:07 2021: (1624055287.88) Mirror / to /OS_Copies/MainServerCopy completed:  
+   New files:401  Changed files:873 
+   New/Changed dirs:207 Deleted:2669 Total actions:4462
+   Statistics: sent 1005110810 bytes  received 321256 bytes  total size 29513873777
+  /OS_Copies/MainServerCopy unmounted.
+
+** Sat Jun 19 01:28:07 2021: (1624055287.88) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Sat Jun 19 01:28:55 2021: (1624055335.03) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:396  Changed files:854 
+   New/Changed dirs:207 Deleted:2693 Total actions:4457
+   Statistics: sent 1005052265 bytes  received 321847 bytes  total size 29513875154
+  /OS_Copies/MainServerD2 unmounted.
+
+** Sat Jun 19 01:28:55 2021: (1624055335.03) Mirror / to /OS_Copies/MainServerD2Copy starting.
+** Wed Nov  3 11:17:26 2021: (1635927446.65) Mirror Job ---DailyJobs--- starting.
+++ Wed Nov  3 11:17:26 2021: (1635927446.97) Mirror Job ---DailyJobs--- completed:

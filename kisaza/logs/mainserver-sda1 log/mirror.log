@@ -1,0 +1,1671 @@
+** Sat Jun 19 01:26:36 2021: (1624055196.39) Mirror Job ---DailyJobs--- starting.
+** Sat Jun 19 01:26:36 2021: (1624055196.4) Mirror / to /OS_Copies/MainServerCopy starting.
+++ Sat Jun 19 01:28:07 2021: (1624055287.88) Mirror / to /OS_Copies/MainServerCopy completed:  
+   New files:401  Changed files:873 
+   New/Changed dirs:207 Deleted:2669 Total actions:4462
+   Statistics: sent 1005110810 bytes  received 321256 bytes  total size 29513873777
+  /OS_Copies/MainServerCopy unmounted.
+
+** Sat Jun 19 01:28:07 2021: (1624055287.88) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Sat Jun 19 01:28:55 2021: (1624055335.03) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:396  Changed files:854 
+   New/Changed dirs:207 Deleted:2693 Total actions:4457
+   Statistics: sent 1005052265 bytes  received 321847 bytes  total size 29513875154
+  /OS_Copies/MainServerD2 unmounted.
+
+** Sat Jun 19 01:28:55 2021: (1624055335.03) Mirror / to /OS_Copies/MainServerD2Copy starting.
+++ Sat Jun 19 01:29:41 2021: (1624055381.56) Mirror / to /OS_Copies/MainServerD2Copy completed:  
+   New files:401  Changed files:877 
+   New/Changed dirs:207 Deleted:2654 Total actions:4451
+   Statistics: sent 1005135312 bytes  received 320633 bytes  total size 29513876530
+  /OS_Copies/MainServerD2Copy unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Sat Jun 19 01:29:41 2021: (1624055381.56) Mirror Job ---DailyJobs--- completed:
+** Sat Jun 19 01:29:41 2021: (1624055381.66) Mirror Job ---DailyJobs--- starting.
+** Sat Jun 19 01:29:41 2021: (1624055381.66) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Sat Jun 19 01:36:45 2021: (1624055805.22) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:43  Changed files:8 
+   New/Changed dirs:0 Deleted:0 Total actions:83
+   Statistics: sent 113466896 bytes  received 156116 bytes  total size 246054245089
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Sat Jun 19 01:36:45 2021: (1624055805.23) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Sat Jun 19 01:36:46 2021: (1624055806.41) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:0 Deleted:0 Total actions:0
+   Statistics: sent 1449 bytes  received 62 bytes  total size 0
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Sat Jun 19 01:36:46 2021: (1624055806.41) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Sat Jun 19 01:37:58 2021: (1624055878.4) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:0  Changed files:11 
+   New/Changed dirs:0 Deleted:0 Total actions:13
+   Statistics: sent 203391401 bytes  received 86051 bytes  total size 29513885404
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Sat Jun 19 01:37:58 2021: (1624055878.4) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Sat Jun 19 01:38:39 2021: (1624055919.31) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:0  Changed files:36 
+   New/Changed dirs:0 Deleted:1 Total actions:41
+   Statistics: sent 206623958 bytes  received 86540 bytes  total size 29513886351
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Sat Jun 19 01:38:39 2021: (1624055919.31) Mirror Job ---DailyJobs--- completed:
+** Tue Aug  3 20:10:23 2021: (1628010623.95) Mirror Job ---DailyJobs--- starting.
+** Tue Aug  3 20:10:23 2021: (1628010623.97) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+** Wed Aug  4 08:51:08 2021: (1628056268.99) Mirror Job ---DailyJobs--- starting.
+** Wed Aug  4 08:51:09 2021: (1628056269.0) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Wed Aug  4 08:58:15 2021: (1628056695.25) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:7  Changed files:81 
+   New/Changed dirs:0 Deleted:4 Total actions:107
+   Statistics: sent 22445461 bytes  received 156969 bytes  total size 246054254074
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Wed Aug  4 08:58:15 2021: (1628056695.25) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Wed Aug  4 08:58:16 2021: (1628056696.83) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:0 Deleted:0 Total actions:0
+   Statistics: sent 1449 bytes  received 62 bytes  total size 0
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Wed Aug  4 08:58:16 2021: (1628056696.83) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Wed Aug  4 08:59:30 2021: (1628056770.08) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:14  Changed files:112 
+   New/Changed dirs:1 Deleted:17 Total actions:183
+   Statistics: sent 209760546 bytes  received 88901 bytes  total size 29502363600
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Wed Aug  4 08:59:30 2021: (1628056770.08) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Wed Aug  4 09:00:42 2021: (1628056842.21) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:33  Changed files:341 
+   New/Changed dirs:19 Deleted:158 Total actions:669
+   Statistics: sent 263484790 bytes  received 98724 bytes  total size 29511173893
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Wed Aug  4 09:00:42 2021: (1628056842.21) Mirror Job ---DailyJobs--- completed:
+** Thu Aug  5 11:06:46 2021: (1628150806.59) Mirror Job ---DailyJobs--- starting.
+** Thu Aug  5 11:06:46 2021: (1628150806.61) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Thu Aug  5 11:15:39 2021: (1628151339.49) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:34687  Changed files:1051 
+   New/Changed dirs:11740 Deleted:352 Total actions:48307
+   Statistics: sent 3743347486 bytes  received 924636 bytes  total size 249723841667
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Thu Aug  5 11:15:39 2021: (1628151339.52) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Thu Aug  5 11:15:41 2021: (1628151341.17) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:12 Deleted:0 Total actions:13
+   Statistics: sent 1880 bytes  received 117 bytes  total size 0
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Thu Aug  5 11:15:41 2021: (1628151341.17) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Thu Aug  5 11:16:57 2021: (1628151417.13) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:33  Changed files:341 
+   New/Changed dirs:19 Deleted:158 Total actions:669
+   Statistics: sent 263492170 bytes  received 98745 bytes  total size 29511184143
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Thu Aug  5 11:16:57 2021: (1628151417.13) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Thu Aug  5 11:18:08 2021: (1628151488.33) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:145  Changed files:319 
+   New/Changed dirs:43 Deleted:10 Total actions:680
+   Statistics: sent 471793798 bytes  received 95965 bytes  total size 29622069572
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Thu Aug  5 11:18:08 2021: (1628151488.33) Mirror Job ---DailyJobs--- completed:
+** Fri Aug  6 07:14:12 2021: (1628223252.3) Mirror Job ---DailyJobs--- starting.
+** Fri Aug  6 07:14:12 2021: (1628223252.31) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Fri Aug  6 07:21:46 2021: (1628223706.63) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:1837  Changed files:1273 
+   New/Changed dirs:28 Deleted:104 Total actions:3566
+   Statistics: sent 322104774 bytes  received 236704 bytes  total size 249888397917
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Fri Aug  6 07:21:46 2021: (1628223706.63) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Fri Aug  6 07:21:48 2021: (1628223708.2) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:0 Deleted:0 Total actions:0
+   Statistics: sent 1837 bytes  received 74 bytes  total size 0
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Fri Aug  6 07:21:48 2021: (1628223708.2) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Fri Aug  6 07:23:04 2021: (1628223784.98) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:145  Changed files:319 
+   New/Changed dirs:43 Deleted:10 Total actions:680
+   Statistics: sent 471801087 bytes  received 96010 bytes  total size 29622079920
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Fri Aug  6 07:23:04 2021: (1628223784.98) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Fri Aug  6 07:24:13 2021: (1628223853.03) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:23  Changed files:264 
+   New/Changed dirs:10 Deleted:3 Total actions:402
+   Statistics: sent 385464442 bytes  received 91934 bytes  total size 29647302466
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Fri Aug  6 07:24:13 2021: (1628223853.03) Mirror Job ---DailyJobs--- completed:
+** Mon Aug  9 09:58:42 2021: (1628492322.21) Mirror Job ---DailyJobs--- starting.
+** Mon Aug  9 09:58:42 2021: (1628492322.23) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Mon Aug  9 10:06:35 2021: (1628492795.05) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:1787  Changed files:1327 
+   New/Changed dirs:78 Deleted:76 Total actions:3508
+   Statistics: sent 343713474 bytes  received 234870 bytes  total size 250090778099
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Mon Aug  9 10:06:35 2021: (1628492795.05) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Mon Aug  9 10:06:37 2021: (1628492797.05) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:2  Changed files:0 
+   New/Changed dirs:120 Deleted:0 Total actions:128
+   Statistics: sent 30490 bytes  received 622 bytes  total size 24291
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Mon Aug  9 10:06:37 2021: (1628492797.05) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+** Tue Aug 10 19:23:21 2021: (1628612601.64) Mirror Job ---DailyJobs--- starting.
+** Tue Aug 10 19:23:21 2021: (1628612601.66) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Tue Aug 10 19:30:55 2021: (1628613055.54) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:96  Changed files:833 
+   New/Changed dirs:1 Deleted:159 Total actions:1249
+   Statistics: sent 100925982 bytes  received 201837 bytes  total size 250110499640
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Tue Aug 10 19:30:55 2021: (1628613055.54) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Tue Aug 10 19:30:57 2021: (1628613057.46) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:4 Deleted:0 Total actions:9
+   Statistics: sent 5966 bytes  received 232 bytes  total size 24291
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Tue Aug 10 19:30:57 2021: (1628613057.46) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Tue Aug 10 19:32:15 2021: (1628613135.47) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:34  Changed files:332 
+   New/Changed dirs:16 Deleted:38 Total actions:537
+   Statistics: sent 377688861 bytes  received 94926 bytes  total size 29633308912
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Tue Aug 10 19:32:15 2021: (1628613135.47) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Tue Aug 10 19:33:26 2021: (1628613206.01) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:59  Changed files:333 
+   New/Changed dirs:26 Deleted:7 Total actions:556
+   Statistics: sent 419479063 bytes  received 94150 bytes  total size 29717892761
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Tue Aug 10 19:33:26 2021: (1628613206.01) Mirror Job ---DailyJobs--- completed:
+** Wed Aug 11 10:59:01 2021: (1628668741.21) Mirror Job ---DailyJobs--- starting.
+** Wed Aug 11 10:59:01 2021: (1628668741.23) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Wed Aug 11 11:06:32 2021: (1628669192.83) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:468  Changed files:771 
+   New/Changed dirs:3 Deleted:58 Total actions:1434
+   Statistics: sent 149720300 bytes  received 196454 bytes  total size 250153368680
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Wed Aug 11 11:06:32 2021: (1628669192.83) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Wed Aug 11 11:06:34 2021: (1628669194.7) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:4 Deleted:0 Total actions:11
+   Statistics: sent 6138 bytes  received 242 bytes  total size 24291
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Wed Aug 11 11:06:34 2021: (1628669194.7) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Wed Aug 11 11:07:55 2021: (1628669275.91) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:59  Changed files:333 
+   New/Changed dirs:26 Deleted:7 Total actions:556
+   Statistics: sent 419486411 bytes  received 94139 bytes  total size 29717903011
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Wed Aug 11 11:07:55 2021: (1628669275.91) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Wed Aug 11 11:09:07 2021: (1628669347.68) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:29  Changed files:350 
+   New/Changed dirs:12 Deleted:21 Total actions:534
+   Statistics: sent 372389466 bytes  received 95331 bytes  total size 29718753855
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Wed Aug 11 11:09:07 2021: (1628669347.68) Mirror Job ---DailyJobs--- completed:
+** Sat Aug 14 12:12:06 2021: (1628932326.83) Mirror Job ---DailyJobs--- starting.
+** Sat Aug 14 12:12:06 2021: (1628932326.84) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Sat Aug 14 12:19:34 2021: (1628932774.09) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:8  Changed files:47 
+   New/Changed dirs:0 Deleted:35 Total actions:115
+   Statistics: sent 30099176 bytes  received 170898 bytes  total size 250153864596
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Sat Aug 14 12:19:34 2021: (1628932774.09) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Sat Aug 14 12:19:35 2021: (1628932775.97) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:4  Changed files:0 
+   New/Changed dirs:76 Deleted:1 Total actions:91
+   Statistics: sent 36185 bytes  received 669 bytes  total size 35312
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Sat Aug 14 12:19:35 2021: (1628932775.97) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Sat Aug 14 12:20:51 2021: (1628932851.21) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:29  Changed files:350 
+   New/Changed dirs:12 Deleted:21 Total actions:534
+   Statistics: sent 372397028 bytes  received 95336 bytes  total size 29718764105
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Sat Aug 14 12:20:51 2021: (1628932851.21) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Sat Aug 14 12:22:03 2021: (1628932923.67) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:369  Changed files:436 
+   New/Changed dirs:21 Deleted:46 Total actions:1001
+   Statistics: sent 479405104 bytes  received 105477 bytes  total size 29772850331
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Sat Aug 14 12:22:03 2021: (1628932923.67) Mirror Job ---DailyJobs--- completed:
+** Tue Aug 17 07:16:56 2021: (1629173816.23) Mirror Job ---DailyJobs--- starting.
+** Tue Aug 17 07:16:56 2021: (1629173816.25) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Tue Aug 17 07:24:15 2021: (1629174255.89) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:1  Changed files:5 
+   New/Changed dirs:0 Deleted:0 Total actions:10
+   Statistics: sent 23274833 bytes  received 167506 bytes  total size 250153882345
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Tue Aug 17 07:24:15 2021: (1629174255.89) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Tue Aug 17 07:24:17 2021: (1629174257.54) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:0 Deleted:0 Total actions:0
+   Statistics: sent 8934 bytes  received 290 bytes  total size 35312
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Tue Aug 17 07:24:17 2021: (1629174257.54) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Tue Aug 17 07:25:34 2021: (1629174334.21) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:369  Changed files:436 
+   New/Changed dirs:21 Deleted:46 Total actions:1001
+   Statistics: sent 479412679 bytes  received 105510 bytes  total size 29772860581
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Tue Aug 17 07:25:34 2021: (1629174334.21) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Tue Aug 17 07:26:45 2021: (1629174405.58) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:28  Changed files:356 
+   New/Changed dirs:7 Deleted:22 Total actions:523
+   Statistics: sent 385609381 bytes  received 95381 bytes  total size 29715622938
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Tue Aug 17 07:26:45 2021: (1629174405.58) Mirror Job ---DailyJobs--- completed:
+** Wed Aug 18 08:04:50 2021: (1629263090.1) Mirror Job ---DailyJobs--- starting.
+** Wed Aug 18 08:04:50 2021: (1629263090.11) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Wed Aug 18 08:12:18 2021: (1629263538.2) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:1034  Changed files:1178 
+   New/Changed dirs:10 Deleted:57 Total actions:2512
+   Statistics: sent 191467803 bytes  received 214907 bytes  total size 250243096763
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Wed Aug 18 08:12:18 2021: (1629263538.2) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Wed Aug 18 08:12:20 2021: (1629263540.4) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:3  Changed files:0 
+   New/Changed dirs:85 Deleted:0 Total actions:138
+   Statistics: sent 36581 bytes  received 848 bytes  total size 59769
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Wed Aug 18 08:12:20 2021: (1629263540.4) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Wed Aug 18 08:13:35 2021: (1629263615.63) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:28  Changed files:356 
+   New/Changed dirs:7 Deleted:22 Total actions:523
+   Statistics: sent 385616992 bytes  received 95374 bytes  total size 29715633274
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Wed Aug 18 08:13:35 2021: (1629263615.63) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Wed Aug 18 08:14:47 2021: (1629263687.75) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:44  Changed files:397 
+   New/Changed dirs:24 Deleted:9 Total actions:593
+   Statistics: sent 420989050 bytes  received 95506 bytes  total size 29752368835
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Wed Aug 18 08:14:47 2021: (1629263687.75) Mirror Job ---DailyJobs--- completed:
+** Thu Aug 19 08:43:29 2021: (1629351809.67) Mirror Job ---DailyJobs--- starting.
+** Thu Aug 19 08:43:29 2021: (1629351809.69) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Thu Aug 19 08:51:04 2021: (1629352264.92) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:318  Changed files:512 
+   New/Changed dirs:1 Deleted:60 Total actions:983
+   Statistics: sent 94133491 bytes  received 188553 bytes  total size 250282169518
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Thu Aug 19 08:51:04 2021: (1629352264.92) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Thu Aug 19 08:51:06 2021: (1629352267.0) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:57 Deleted:0 Total actions:80
+   Statistics: sent 13805 bytes  received 689 bytes  total size 59769
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Thu Aug 19 08:51:06 2021: (1629352267.0) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Thu Aug 19 08:52:23 2021: (1629352343.77) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:44  Changed files:397 
+   New/Changed dirs:24 Deleted:9 Total actions:593
+   Statistics: sent 420996659 bytes  received 95499 bytes  total size 29752379599
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Thu Aug 19 08:52:23 2021: (1629352343.77) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Thu Aug 19 08:53:36 2021: (1629352416.34) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:11  Changed files:318 
+   New/Changed dirs:13 Deleted:18 Total actions:460
+   Statistics: sent 388592687 bytes  received 93580 bytes  total size 29750814962
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Thu Aug 19 08:53:36 2021: (1629352416.34) Mirror Job ---DailyJobs--- completed:
+** Fri Aug 20 10:27:35 2021: (1629444455.23) Mirror Job ---DailyJobs--- starting.
+** Fri Aug 20 10:27:35 2021: (1629444455.25) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Fri Aug 20 10:34:55 2021: (1629444895.9) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:267  Changed files:564 
+   New/Changed dirs:2 Deleted:135 Total actions:1081
+   Statistics: sent 93489274 bytes  received 198913 bytes  total size 250286210753
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Fri Aug 20 10:34:55 2021: (1629444895.9) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Fri Aug 20 10:34:57 2021: (1629444897.79) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:1  Changed files:0 
+   New/Changed dirs:4 Deleted:1 Total actions:36
+   Statistics: sent 13836 bytes  received 611 bytes  total size 48295
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Fri Aug 20 10:34:57 2021: (1629444897.79) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Fri Aug 20 10:36:13 2021: (1629444973.08) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:11  Changed files:318 
+   New/Changed dirs:13 Deleted:18 Total actions:460
+   Statistics: sent 388600313 bytes  received 93605 bytes  total size 29750825212
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Fri Aug 20 10:36:13 2021: (1629444973.08) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Fri Aug 20 10:37:25 2021: (1629445045.15) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:23  Changed files:464 
+   New/Changed dirs:25 Deleted:17 Total actions:642
+   Statistics: sent 416324167 bytes  received 97049 bytes  total size 29723709211
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Fri Aug 20 10:37:25 2021: (1629445045.15) Mirror Job ---DailyJobs--- completed:
+** Sat Aug 21 11:22:22 2021: (1629534142.51) Mirror Job ---DailyJobs--- starting.
+** Sat Aug 21 11:22:22 2021: (1629534142.52) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Sat Aug 21 11:30:02 2021: (1629534602.17) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:43  Changed files:286 
+   New/Changed dirs:0 Deleted:28 Total actions:412
+   Statistics: sent 50315923 bytes  received 176003 bytes  total size 250288241753
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Sat Aug 21 11:30:02 2021: (1629534602.17) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Sat Aug 21 11:30:04 2021: (1629534604.13) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:90 Deleted:0 Total actions:140
+   Statistics: sent 17327 bytes  received 965 bytes  total size 48368
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Sat Aug 21 11:30:04 2021: (1629534604.13) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Sat Aug 21 11:31:20 2021: (1629534680.93) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:23  Changed files:464 
+   New/Changed dirs:25 Deleted:17 Total actions:642
+   Statistics: sent 416331789 bytes  received 97058 bytes  total size 29723719461
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Sat Aug 21 11:31:20 2021: (1629534680.93) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Sat Aug 21 11:32:32 2021: (1629534752.45) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:6  Changed files:317 
+   New/Changed dirs:8 Deleted:12 Total actions:447
+   Statistics: sent 399261538 bytes  received 93233 bytes  total size 29736524719
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Sat Aug 21 11:32:32 2021: (1629534752.45) Mirror Job ---DailyJobs--- completed:
+** Sun Aug 22 11:56:55 2021: (1629622615.35) Mirror Job ---DailyJobs--- starting.
+** Sun Aug 22 11:56:55 2021: (1629622615.37) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Sun Aug 22 12:05:05 2021: (1629623105.32) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:11  Changed files:14 
+   New/Changed dirs:0 Deleted:0 Total actions:29
+   Statistics: sent 23694779 bytes  received 167948 bytes  total size 250288561336
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Sun Aug 22 12:05:05 2021: (1629623105.32) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Sun Aug 22 12:05:07 2021: (1629623107.62) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:11  Changed files:1 
+   New/Changed dirs:81 Deleted:0 Total actions:181
+   Statistics: sent 1641195 bytes  received 1375 bytes  total size 1655465
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Sun Aug 22 12:05:07 2021: (1629623107.62) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Sun Aug 22 12:06:26 2021: (1629623186.56) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:6  Changed files:317 
+   New/Changed dirs:8 Deleted:12 Total actions:447
+   Statistics: sent 399269209 bytes  received 93226 bytes  total size 29736535071
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Sun Aug 22 12:06:26 2021: (1629623186.59) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Sun Aug 22 12:07:47 2021: (1629623267.3) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:55  Changed files:317 
+   New/Changed dirs:58 Deleted:0 Total actions:536
+   Statistics: sent 780985790 bytes  received 93696 bytes  total size 30107986073
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Sun Aug 22 12:07:47 2021: (1629623267.3) Mirror Job ---DailyJobs--- completed:
+** Mon Aug 23 08:30:06 2021: (1629696606.66) Mirror Job ---DailyJobs--- starting.
+** Mon Aug 23 08:30:06 2021: (1629696606.67) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Mon Aug 23 08:38:07 2021: (1629697087.05) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:177  Changed files:370 
+   New/Changed dirs:9 Deleted:38 Total actions:666
+   Statistics: sent 116577347 bytes  received 181127 bytes  total size 250366280017
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Mon Aug 23 08:38:07 2021: (1629697087.05) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Mon Aug 23 08:38:09 2021: (1629697089.24) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:16 Deleted:0 Total actions:69
+   Statistics: sent 20706 bytes  received 887 bytes  total size 1655465
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Mon Aug 23 08:38:09 2021: (1629697089.24) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Mon Aug 23 08:39:29 2021: (1629697169.34) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:55  Changed files:317 
+   New/Changed dirs:58 Deleted:0 Total actions:536
+   Statistics: sent 780993540 bytes  received 93725 bytes  total size 30107996447
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Mon Aug 23 08:39:29 2021: (1629697169.34) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Mon Aug 23 08:40:41 2021: (1629697241.46) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:32  Changed files:425 
+   New/Changed dirs:6 Deleted:30 Total actions:609
+   Statistics: sent 484259027 bytes  received 97290 bytes  total size 30143276009
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Mon Aug 23 08:40:41 2021: (1629697241.46) Mirror Job ---DailyJobs--- completed:
+** Tue Aug 24 07:11:44 2021: (1629778304.06) Mirror Job ---DailyJobs--- starting.
+** Tue Aug 24 07:11:44 2021: (1629778304.08) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+-- Tue Aug 24 07:19:33 2021: (1629778773.5) Mirror /client_home/ to /OS_Copies/ClientHomeCopy failed:
+    /OS_Copies/ClientHomeCopy unmounted.
+
+** Tue Aug 24 07:19:33 2021: (1629778773.5) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Tue Aug 24 07:19:35 2021: (1629778775.38) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:3  Changed files:0 
+   New/Changed dirs:80 Deleted:0 Total actions:220
+   Statistics: sent 41324 bytes  received 1430 bytes  total size 1672682
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Tue Aug 24 07:19:35 2021: (1629778775.38) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Tue Aug 24 07:20:51 2021: (1629778851.89) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:32  Changed files:425 
+   New/Changed dirs:6 Deleted:30 Total actions:609
+   Statistics: sent 484266818 bytes  received 97299 bytes  total size 30143286385
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Tue Aug 24 07:20:51 2021: (1629778851.89) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Tue Aug 24 07:22:03 2021: (1629778923.81) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:20  Changed files:408 
+   New/Changed dirs:29 Deleted:14 Total actions:585
+   Statistics: sent 471956622 bytes  received 96055 bytes  total size 30157062214
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+-- Tue Aug 24 07:22:03 2021: (1629778923.81) Mirror Job ---DailyJobs--- failed:
+  
+** Wed Aug 25 08:58:28 2021: (1629871108.03) Mirror Job ---DailyJobs--- starting.
+** Wed Aug 25 08:58:28 2021: (1629871108.05) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Wed Aug 25 09:05:53 2021: (1629871553.11) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:306  Changed files:671 
+   New/Changed dirs:20 Deleted:204 Total actions:1327
+   Statistics: sent 83236377 bytes  received 206614 bytes  total size 250399151193
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Wed Aug 25 09:05:53 2021: (1629871553.11) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Wed Aug 25 09:05:55 2021: (1629871555.63) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:2  Changed files:0 
+   New/Changed dirs:64 Deleted:0 Total actions:198
+   Statistics: sent 60224 bytes  received 1424 bytes  total size 1706668
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Wed Aug 25 09:05:55 2021: (1629871555.63) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Wed Aug 25 09:07:13 2021: (1629871633.21) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:20  Changed files:408 
+   New/Changed dirs:29 Deleted:14 Total actions:585
+   Statistics: sent 471964245 bytes  received 96080 bytes  total size 30157072464
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Wed Aug 25 09:07:13 2021: (1629871633.21) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Wed Aug 25 09:08:29 2021: (1629871709.77) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:24  Changed files:361 
+   New/Changed dirs:14 Deleted:18 Total actions:531
+   Statistics: sent 835490574 bytes  received 95080 bytes  total size 30480527574
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Wed Aug 25 09:08:29 2021: (1629871709.77) Mirror Job ---DailyJobs--- completed:
+** Thu Aug 26 14:15:40 2021: (1629976540.58) Mirror Job ---DailyJobs--- starting.
+** Thu Aug 26 14:15:40 2021: (1629976540.59) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Thu Aug 26 14:23:18 2021: (1629976998.38) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:343  Changed files:638 
+   New/Changed dirs:12 Deleted:74 Total actions:1186
+   Statistics: sent 97607607 bytes  received 193633 bytes  total size 250435101275
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Thu Aug 26 14:23:18 2021: (1629976998.38) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Thu Aug 26 14:23:20 2021: (1629977000.47) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:73 Deleted:0 Total actions:140
+   Statistics: sent 28461 bytes  received 1289 bytes  total size 1706668
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Thu Aug 26 14:23:20 2021: (1629977000.47) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Thu Aug 26 14:24:41 2021: (1629977081.29) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:24  Changed files:361 
+   New/Changed dirs:14 Deleted:18 Total actions:531
+   Statistics: sent 835498252 bytes  received 95097 bytes  total size 30480537824
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Thu Aug 26 14:24:41 2021: (1629977081.29) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Thu Aug 26 14:25:57 2021: (1629977157.56) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:49  Changed files:444 
+   New/Changed dirs:45 Deleted:41 Total actions:688
+   Statistics: sent 620460520 bytes  received 97430 bytes  total size 30651099832
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Thu Aug 26 14:25:57 2021: (1629977157.56) Mirror Job ---DailyJobs--- completed:
+** Fri Aug 27 14:22:49 2021: (1630063369.9) Mirror Job ---DailyJobs--- starting.
+** Fri Aug 27 14:22:49 2021: (1630063369.92) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Fri Aug 27 14:30:03 2021: (1630063803.91) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:37  Changed files:119 
+   New/Changed dirs:0 Deleted:20 Total actions:194
+   Statistics: sent 24076367 bytes  received 172748 bytes  total size 250435591628
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Fri Aug 27 14:30:03 2021: (1630063803.91) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Fri Aug 27 14:30:06 2021: (1630063806.16) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:8  Changed files:0 
+   New/Changed dirs:12 Deleted:0 Total actions:83
+   Statistics: sent 1316121 bytes  received 1263 bytes  total size 2993277
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Fri Aug 27 14:30:06 2021: (1630063806.16) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Fri Aug 27 14:31:24 2021: (1630063884.1) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:49  Changed files:444 
+   New/Changed dirs:45 Deleted:41 Total actions:688
+   Statistics: sent 620468243 bytes  received 97443 bytes  total size 30651113159
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Fri Aug 27 14:31:24 2021: (1630063884.1) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Fri Aug 27 14:32:37 2021: (1630063957.84) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:44  Changed files:350 
+   New/Changed dirs:18 Deleted:16 Total actions:531
+   Statistics: sent 515017191 bytes  received 94994 bytes  total size 30688676092
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Fri Aug 27 14:32:37 2021: (1630063957.84) Mirror Job ---DailyJobs--- completed:
+** Mon Aug 30 08:13:57 2021: (1630300437.63) Mirror Job ---DailyJobs--- starting.
+** Mon Aug 30 08:13:57 2021: (1630300437.66) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Mon Aug 30 08:21:30 2021: (1630300890.82) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:35  Changed files:31 
+   New/Changed dirs:1 Deleted:7 Total actions:90
+   Statistics: sent 23519890 bytes  received 169351 bytes  total size 250435648462
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Mon Aug 30 08:21:30 2021: (1630300890.82) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Mon Aug 30 08:21:32 2021: (1630300892.4) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:32 Deleted:0 Total actions:61
+   Statistics: sent 29977 bytes  received 1089 bytes  total size 2993277
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Mon Aug 30 08:21:32 2021: (1630300892.4) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Mon Aug 30 08:22:50 2021: (1630300970.59) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:44  Changed files:350 
+   New/Changed dirs:18 Deleted:16 Total actions:531
+   Statistics: sent 515024863 bytes  received 94995 bytes  total size 30688686342
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Mon Aug 30 08:22:50 2021: (1630300970.59) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Mon Aug 30 08:24:03 2021: (1630301043.2) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:1  Changed files:332 
+   New/Changed dirs:30 Deleted:11 Total actions:468
+   Statistics: sent 399112997 bytes  received 93694 bytes  total size 30628587054
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Mon Aug 30 08:24:03 2021: (1630301043.2) Mirror Job ---DailyJobs--- completed:
+** Tue Aug 31 07:27:59 2021: (1630384079.43) Mirror Job ---DailyJobs--- starting.
+** Tue Aug 31 07:27:59 2021: (1630384079.45) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Tue Aug 31 07:35:24 2021: (1630384524.12) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:299  Changed files:369 
+   New/Changed dirs:2 Deleted:181 Total actions:952
+   Statistics: sent 72801323 bytes  received 197759 bytes  total size 250459543149
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Tue Aug 31 07:35:24 2021: (1630384524.12) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Tue Aug 31 07:35:26 2021: (1630384526.52) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:2  Changed files:0 
+   New/Changed dirs:21 Deleted:0 Total actions:118
+   Statistics: sent 41207 bytes  received 1338 bytes  total size 3003396
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Tue Aug 31 07:35:26 2021: (1630384526.52) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Tue Aug 31 07:36:41 2021: (1630384601.94) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:1  Changed files:332 
+   New/Changed dirs:30 Deleted:11 Total actions:468
+   Statistics: sent 399120638 bytes  received 93699 bytes  total size 30628597304
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Tue Aug 31 07:36:41 2021: (1630384601.94) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Tue Aug 31 07:37:54 2021: (1630384674.18) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:43  Changed files:492 
+   New/Changed dirs:10 Deleted:25 Total actions:700
+   Statistics: sent 567160845 bytes  received 98471 bytes  total size 30622660313
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Tue Aug 31 07:37:54 2021: (1630384674.19) Mirror Job ---DailyJobs--- completed:
+** Wed Sep  1 07:10:00 2021: (1630469400.96) Mirror Job ---DailyJobs--- starting.
+** Wed Sep  1 07:10:00 2021: (1630469400.98) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Wed Sep  1 07:17:29 2021: (1630469849.23) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:96  Changed files:298 
+   New/Changed dirs:9 Deleted:21 Total actions:491
+   Statistics: sent 74276168 bytes  received 177348 bytes  total size 250489101831
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Wed Sep  1 07:17:29 2021: (1630469849.23) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Wed Sep  1 07:17:31 2021: (1630469851.12) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:4 Deleted:0 Total actions:44
+   Statistics: sent 30925 bytes  received 1066 bytes  total size 3003396
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Wed Sep  1 07:17:31 2021: (1630469851.12) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Wed Sep  1 07:18:48 2021: (1630469928.62) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:43  Changed files:492 
+   New/Changed dirs:10 Deleted:25 Total actions:700
+   Statistics: sent 567168500 bytes  received 98476 bytes  total size 30622670563
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Wed Sep  1 07:18:48 2021: (1630469928.62) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Wed Sep  1 07:20:00 2021: (1630470000.61) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:16  Changed files:470 
+   New/Changed dirs:122 Deleted:11 Total actions:720
+   Statistics: sent 417803487 bytes  received 97024 bytes  total size 30623841041
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Wed Sep  1 07:20:00 2021: (1630470000.61) Mirror Job ---DailyJobs--- completed:
+** Thu Sep  2 11:19:42 2021: (1630570782.96) Mirror Job ---DailyJobs--- starting.
+** Thu Sep  2 11:19:42 2021: (1630570782.97) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Thu Sep  2 11:28:26 2021: (1630571306.54) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:81  Changed files:429 
+   New/Changed dirs:7 Deleted:41 Total actions:651
+   Statistics: sent 55561625 bytes  received 181523 bytes  total size 250490563552
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Thu Sep  2 11:28:26 2021: (1630571306.54) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Thu Sep  2 11:28:28 2021: (1630571308.22) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:9 Deleted:0 Total actions:98
+   Statistics: sent 31392 bytes  received 1251 bytes  total size 3003396
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Thu Sep  2 11:28:28 2021: (1630571308.22) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Thu Sep  2 11:29:47 2021: (1630571387.6) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:16  Changed files:470 
+   New/Changed dirs:122 Deleted:11 Total actions:720
+   Statistics: sent 417810924 bytes  received 97033 bytes  total size 30623851291
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Thu Sep  2 11:29:47 2021: (1630571387.62) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Thu Sep  2 11:31:03 2021: (1630571463.49) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:42  Changed files:477 
+   New/Changed dirs:12 Deleted:10 Total actions:664
+   Statistics: sent 482190257 bytes  received 97089 bytes  total size 30529980396
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Thu Sep  2 11:31:03 2021: (1630571463.49) Mirror Job ---DailyJobs--- completed:
+** Fri Sep  3 08:47:53 2021: (1630648073.88) Mirror Job ---DailyJobs--- starting.
+** Fri Sep  3 08:47:53 2021: (1630648073.9) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Fri Sep  3 08:56:00 2021: (1630648560.46) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:21  Changed files:93 
+   New/Changed dirs:0 Deleted:19 Total actions:144
+   Statistics: sent 24020675 bytes  received 170493 bytes  total size 250491017706
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Fri Sep  3 08:56:00 2021: (1630648560.46) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Fri Sep  3 08:56:07 2021: (1630648567.88) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:57  Changed files:0 
+   New/Changed dirs:27 Deleted:15 Total actions:199
+   Statistics: sent 379328199 bytes  received 2965 bytes  total size 380325181
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Fri Sep  3 08:56:07 2021: (1630648567.89) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Fri Sep  3 08:57:26 2021: (1630648646.63) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:42  Changed files:477 
+   New/Changed dirs:12 Deleted:10 Total actions:664
+   Statistics: sent 482197573 bytes  received 97086 bytes  total size 30529990646
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Fri Sep  3 08:57:26 2021: (1630648646.63) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Fri Sep  3 08:58:43 2021: (1630648723.63) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:26  Changed files:521 
+   New/Changed dirs:8 Deleted:57 Total actions:737
+   Statistics: sent 747853652 bytes  received 99745 bytes  total size 30586427617
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Fri Sep  3 08:58:43 2021: (1630648723.63) Mirror Job ---DailyJobs--- completed:
+** Sat Sep  4 19:42:50 2021: (1630773770.61) Mirror Job ---DailyJobs--- starting.
+** Sat Sep  4 19:42:50 2021: (1630773770.66) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Sat Sep  4 19:50:38 2021: (1630774238.3) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:269  Changed files:250 
+   New/Changed dirs:3 Deleted:29 Total actions:628
+   Statistics: sent 54231575 bytes  received 180079 bytes  total size 250483550324
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Sat Sep  4 19:50:38 2021: (1630774238.3) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Sat Sep  4 19:50:40 2021: (1630774240.38) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:3  Changed files:0 
+   New/Changed dirs:66 Deleted:1 Total actions:262
+   Statistics: sent 84465 bytes  received 1954 bytes  total size 380371770
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Sat Sep  4 19:50:40 2021: (1630774240.38) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Sat Sep  4 19:51:59 2021: (1630774319.35) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:26  Changed files:521 
+   New/Changed dirs:8 Deleted:57 Total actions:737
+   Statistics: sent 747861188 bytes  received 99758 bytes  total size 30586437867
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Sat Sep  4 19:51:59 2021: (1630774319.35) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Sat Sep  4 19:53:23 2021: (1630774403.39) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:85  Changed files:394 
+   New/Changed dirs:18 Deleted:15 Total actions:637
+   Statistics: sent 1861906333 bytes  received 96924 bytes  total size 31449642889
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Sat Sep  4 19:53:23 2021: (1630774403.39) Mirror Job ---DailyJobs--- completed:
+** Mon Sep  6 10:20:22 2021: (1630912822.28) Mirror Job ---DailyJobs--- starting.
+** Mon Sep  6 10:20:22 2021: (1630912822.3) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Mon Sep  6 10:27:47 2021: (1630913267.8) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:97  Changed files:202 
+   New/Changed dirs:1 Deleted:4 Total actions:339
+   Statistics: sent 72148081 bytes  received 173519 bytes  total size 250521530003
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Mon Sep  6 10:27:47 2021: (1630913267.8) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Mon Sep  6 10:27:49 2021: (1630913269.77) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:0 Deleted:0 Total actions:3
+   Statistics: sent 36936 bytes  received 1042 bytes  total size 380371770
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Mon Sep  6 10:27:49 2021: (1630913269.77) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Mon Sep  6 10:29:20 2021: (1630913360.43) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:85  Changed files:394 
+   New/Changed dirs:18 Deleted:15 Total actions:637
+   Statistics: sent 1861913634 bytes  received 96953 bytes  total size 31449653139
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Mon Sep  6 10:29:20 2021: (1630913360.43) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Mon Sep  6 10:30:33 2021: (1630913433.95) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:34  Changed files:461 
+   New/Changed dirs:6 Deleted:23 Total actions:628
+   Statistics: sent 409639642 bytes  received 97638 bytes  total size 31479168657
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Mon Sep  6 10:30:33 2021: (1630913433.95) Mirror Job ---DailyJobs--- completed:
+** Tue Sep  7 08:34:24 2021: (1630992864.51) Mirror Job ---DailyJobs--- starting.
+** Tue Sep  7 08:34:24 2021: (1630992864.52) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+-- Tue Sep  7 08:41:43 2021: (1630993303.77) Mirror /client_home/ to /OS_Copies/ClientHomeCopy failed:
+    /OS_Copies/ClientHomeCopy unmounted.
+
+** Tue Sep  7 08:41:43 2021: (1630993303.77) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Tue Sep  7 08:41:45 2021: (1630993305.85) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:1  Changed files:0 
+   New/Changed dirs:0 Deleted:0 Total actions:26
+   Statistics: sent 48344 bytes  received 1147 bytes  total size 380383000
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Tue Sep  7 08:41:45 2021: (1630993305.85) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Tue Sep  7 08:43:02 2021: (1630993382.49) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:34  Changed files:461 
+   New/Changed dirs:6 Deleted:23 Total actions:628
+   Statistics: sent 409646826 bytes  received 97651 bytes  total size 31479178907
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Tue Sep  7 08:43:02 2021: (1630993382.49) Mirror / to /OS_Copies/MainServerD2 starting.
+-- Tue Sep  7 08:44:14 2021: (1630993454.06) Mirror / to /OS_Copies/MainServerD2 failed:
+  rsync: readlink_stat("/media/b_komanya/KIGAZI") failed: Permission denied (13)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1183) [sender=3.1.1]
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+-- Tue Sep  7 08:44:14 2021: (1630993454.06) Mirror Job ---DailyJobs--- failed:
+  
+** Wed Sep  8 08:24:01 2021: (1631078641.94) Mirror Job ---DailyJobs--- starting.
+** Wed Sep  8 08:24:01 2021: (1631078641.95) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Wed Sep  8 08:31:49 2021: (1631079109.67) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:79  Changed files:259 
+   New/Changed dirs:2 Deleted:18 Total actions:427
+   Statistics: sent 52544029 bytes  received 175601 bytes  total size 250536268356
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Wed Sep  8 08:31:49 2021: (1631079109.67) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Wed Sep  8 08:31:51 2021: (1631079111.67) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:0 Deleted:0 Total actions:0
+   Statistics: sent 36974 bytes  received 1031 bytes  total size 380383000
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Wed Sep  8 08:31:51 2021: (1631079111.67) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Wed Sep  8 08:33:07 2021: (1631079187.35) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:31  Changed files:499 
+   New/Changed dirs:9 Deleted:16 Total actions:661
+   Statistics: sent 405140717 bytes  received 98359 bytes  total size 31473925411
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Wed Sep  8 08:33:07 2021: (1631079187.35) Mirror / to /OS_Copies/MainServerD2 starting.
+-- Wed Sep  8 08:34:15 2021: (1631079255.38) Mirror / to /OS_Copies/MainServerD2 failed:
+  rsync: readlink_stat("/media/m_kigazi/KIGAZI") failed: Permission denied (13)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1183) [sender=3.1.1]
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+-- Wed Sep  8 08:34:15 2021: (1631079255.38) Mirror Job ---DailyJobs--- failed:
+  
+** Thu Sep  9 08:15:31 2021: (1631164531.59) Mirror Job ---DailyJobs--- starting.
+** Thu Sep  9 08:15:31 2021: (1631164531.61) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Thu Sep  9 08:22:46 2021: (1631164966.28) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:104  Changed files:223 
+   New/Changed dirs:1 Deleted:30 Total actions:405
+   Statistics: sent 57881000 bytes  received 176801 bytes  total size 250552533237
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Thu Sep  9 08:22:46 2021: (1631164966.28) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Thu Sep  9 08:22:50 2021: (1631164970.7) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:20  Changed files:0 
+   New/Changed dirs:13 Deleted:1 Total actions:173
+   Statistics: sent 137789336 bytes  received 1931 bytes  total size 517864790
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Thu Sep  9 08:22:50 2021: (1631164970.7) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Thu Sep  9 08:24:06 2021: (1631165046.85) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:26  Changed files:537 
+   New/Changed dirs:7 Deleted:2 Total actions:780
+   Statistics: sent 370767803 bytes  received 97895 bytes  total size 31473875771
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Thu Sep  9 08:24:06 2021: (1631165046.85) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Thu Sep  9 08:25:23 2021: (1631165123.21) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:51  Changed files:493 
+   New/Changed dirs:9 Deleted:18 Total actions:687
+   Statistics: sent 808007656 bytes  received 98096 bytes  total size 31652828273
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Thu Sep  9 08:25:23 2021: (1631165123.21) Mirror Job ---DailyJobs--- completed:
+** Fri Sep 10 11:19:44 2021: (1631261984.83) Mirror Job ---DailyJobs--- starting.
+** Fri Sep 10 11:19:44 2021: (1631261984.85) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Fri Sep 10 11:26:55 2021: (1631262415.26) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:48  Changed files:162 
+   New/Changed dirs:0 Deleted:8 Total actions:245
+   Statistics: sent 29387114 bytes  received 171969 bytes  total size 250552674161
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Fri Sep 10 11:26:55 2021: (1631262415.26) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Fri Sep 10 11:26:57 2021: (1631262417.66) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:4  Changed files:2 
+   New/Changed dirs:9 Deleted:1 Total actions:145
+   Statistics: sent 167227 bytes  received 1696 bytes  total size 517899792
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Fri Sep 10 11:26:57 2021: (1631262417.66) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Fri Sep 10 11:28:17 2021: (1631262497.71) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:51  Changed files:493 
+   New/Changed dirs:9 Deleted:18 Total actions:687
+   Statistics: sent 808014541 bytes  received 98085 bytes  total size 31652838523
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Fri Sep 10 11:28:17 2021: (1631262497.71) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Fri Sep 10 11:29:34 2021: (1631262574.38) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:43  Changed files:341 
+   New/Changed dirs:6 Deleted:6 Total actions:500
+   Statistics: sent 850418582 bytes  received 94241 bytes  total size 32053845153
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Fri Sep 10 11:29:34 2021: (1631262574.38) Mirror Job ---DailyJobs--- completed:
+** Mon Sep 20 10:05:41 2021: (1632121541.6) Mirror Job ---DailyJobs--- starting.
+** Mon Sep 20 10:05:41 2021: (1632121541.62) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Mon Sep 20 10:12:54 2021: (1632121974.9) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:52  Changed files:159 
+   New/Changed dirs:0 Deleted:24 Total actions:257
+   Statistics: sent 26140822 bytes  received 173801 bytes  total size 250552807800
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Mon Sep 20 10:12:54 2021: (1632121974.9) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Mon Sep 20 10:12:56 2021: (1632121976.89) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:0 Deleted:0 Total actions:11
+   Statistics: sent 38567 bytes  received 1089 bytes  total size 517899792
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Mon Sep 20 10:12:56 2021: (1632121976.89) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Mon Sep 20 10:14:19 2021: (1632122059.16) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:43  Changed files:341 
+   New/Changed dirs:6 Deleted:6 Total actions:500
+   Statistics: sent 850425507 bytes  received 94242 bytes  total size 32053855403
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Mon Sep 20 10:14:19 2021: (1632122059.16) Mirror / to /OS_Copies/MainServerD2 starting.
+-- Mon Sep 20 10:15:28 2021: (1632122128.65) Mirror / to /OS_Copies/MainServerD2 failed:
+  rsync: readlink_stat("/media/m_kigazi/KIGAZI") failed: Permission denied (13)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1183) [sender=3.1.1]
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+-- Mon Sep 20 10:15:28 2021: (1632122128.65) Mirror Job ---DailyJobs--- failed:
+  
+** Tue Sep 21 08:36:28 2021: (1632202588.39) Mirror Job ---DailyJobs--- starting.
+** Tue Sep 21 08:36:28 2021: (1632202588.41) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Tue Sep 21 08:44:45 2021: (1632203085.6) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:18  Changed files:118 
+   New/Changed dirs:0 Deleted:8 Total actions:182
+   Statistics: sent 29686015 bytes  received 170604 bytes  total size 250553028789
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Tue Sep 21 08:44:45 2021: (1632203085.6) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Tue Sep 21 08:44:47 2021: (1632203087.73) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:10 Deleted:0 Total actions:139
+   Statistics: sent 39319 bytes  received 1507 bytes  total size 517899792
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Tue Sep 21 08:44:47 2021: (1632203087.73) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Tue Sep 21 08:46:09 2021: (1632203169.02) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:38  Changed files:558 
+   New/Changed dirs:9 Deleted:7 Total actions:716
+   Statistics: sent 373892297 bytes  received 98614 bytes  total size 32057094683
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Tue Sep 21 08:46:09 2021: (1632203169.02) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Tue Sep 21 08:47:25 2021: (1632203245.91) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:18  Changed files:432 
+   New/Changed dirs:31 Deleted:60 Total actions:750
+   Statistics: sent 396913697 bytes  received 98945 bytes  total size 31650550855
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Tue Sep 21 08:47:25 2021: (1632203245.91) Mirror Job ---DailyJobs--- completed:
+** Wed Sep 22 09:04:50 2021: (1632290690.14) Mirror Job ---DailyJobs--- starting.
+** Wed Sep 22 09:04:50 2021: (1632290690.15) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Wed Sep 22 09:12:43 2021: (1632291163.18) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:304  Changed files:454 
+   New/Changed dirs:8 Deleted:65 Total actions:924
+   Statistics: sent 77454254 bytes  received 187962 bytes  total size 250568898457
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Wed Sep 22 09:12:43 2021: (1632291163.18) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Wed Sep 22 09:12:45 2021: (1632291165.37) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:1  Changed files:0 
+   New/Changed dirs:20 Deleted:0 Total actions:191
+   Statistics: sent 79187 bytes  received 1697 bytes  total size 517938736
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Wed Sep 22 09:12:45 2021: (1632291165.37) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Wed Sep 22 09:14:04 2021: (1632291244.59) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:18  Changed files:432 
+   New/Changed dirs:31 Deleted:60 Total actions:750
+   Statistics: sent 396920766 bytes  received 98938 bytes  total size 31650561231
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Wed Sep 22 09:14:04 2021: (1632291244.6) Mirror / to /OS_Copies/MainServerD2 starting.
+-- Wed Sep 22 09:15:16 2021: (1632291316.92) Mirror / to /OS_Copies/MainServerD2 failed:
+  rsync: readlink_stat("/media/v_selestine/usbdisk-sda") failed: Permission denied (13)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1183) [sender=3.1.1]
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+-- Wed Sep 22 09:15:16 2021: (1632291316.92) Mirror Job ---DailyJobs--- failed:
+  
+** Thu Sep 23 10:05:06 2021: (1632380706.08) Mirror Job ---DailyJobs--- starting.
+** Thu Sep 23 10:05:06 2021: (1632380706.09) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Thu Sep 23 10:12:23 2021: (1632381143.09) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:29  Changed files:175 
+   New/Changed dirs:0 Deleted:18 Total actions:300
+   Statistics: sent 88241054 bytes  received 172610 bytes  total size 250609689228
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Thu Sep 23 10:12:23 2021: (1632381143.09) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Thu Sep 23 10:12:25 2021: (1632381145.09) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:0 Deleted:0 Total actions:13
+   Statistics: sent 39641 bytes  received 1123 bytes  total size 517938736
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Thu Sep 23 10:12:25 2021: (1632381145.09) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Thu Sep 23 10:13:41 2021: (1632381221.98) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:26  Changed files:444 
+   New/Changed dirs:11 Deleted:10 Total actions:604
+   Statistics: sent 482508299 bytes  received 96710 bytes  total size 31729155077
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Thu Sep 23 10:13:41 2021: (1632381221.98) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Thu Sep 23 10:14:54 2021: (1632381294.34) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:4  Changed files:455 
+   New/Changed dirs:12 Deleted:28 Total actions:601
+   Statistics: sent 396507941 bytes  received 97277 bytes  total size 31728654932
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Thu Sep 23 10:14:54 2021: (1632381294.34) Mirror Job ---DailyJobs--- completed:
+** Fri Sep 24 08:00:49 2021: (1632459649.37) Mirror Job ---DailyJobs--- starting.
+** Fri Sep 24 08:00:49 2021: (1632459649.39) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Fri Sep 24 08:08:19 2021: (1632460099.87) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:214  Changed files:983 
+   New/Changed dirs:3 Deleted:99 Total actions:1515
+   Statistics: sent 65396448 bytes  received 199773 bytes  total size 250617908222
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Fri Sep 24 08:08:19 2021: (1632460099.87) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Fri Sep 24 08:08:22 2021: (1632460102.12) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:2  Changed files:0 
+   New/Changed dirs:8 Deleted:0 Total actions:145
+   Statistics: sent 62662 bytes  received 1630 bytes  total size 517960824
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Fri Sep 24 08:08:22 2021: (1632460102.12) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Fri Sep 24 08:09:37 2021: (1632460177.8) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:4  Changed files:455 
+   New/Changed dirs:12 Deleted:28 Total actions:601
+   Statistics: sent 396514950 bytes  received 97278 bytes  total size 31728665182
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Fri Sep 24 08:09:37 2021: (1632460177.8) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Fri Sep 24 08:10:52 2021: (1632460252.12) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:8  Changed files:338 
+   New/Changed dirs:14 Deleted:1 Total actions:461
+   Statistics: sent 448814438 bytes  received 93294 bytes  total size 31779873536
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Fri Sep 24 08:10:52 2021: (1632460252.12) Mirror Job ---DailyJobs--- completed:
+** Mon Sep 27 08:23:33 2021: (1632720213.59) Mirror Job ---DailyJobs--- starting.
+** Mon Sep 27 08:23:33 2021: (1632720213.62) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Mon Sep 27 08:32:06 2021: (1632720726.37) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:347  Changed files:920 
+   New/Changed dirs:6 Deleted:64 Total actions:1525
+   Statistics: sent 109186549 bytes  received 197924 bytes  total size 250664275390
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Mon Sep 27 08:32:06 2021: (1632720726.37) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Mon Sep 27 08:32:08 2021: (1632720728.18) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:12 Deleted:0 Total actions:83
+   Statistics: sent 40704 bytes  received 1414 bytes  total size 517960824
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Mon Sep 27 08:32:08 2021: (1632720728.18) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Mon Sep 27 08:33:25 2021: (1632720805.45) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:8  Changed files:338 
+   New/Changed dirs:14 Deleted:1 Total actions:461
+   Statistics: sent 448821486 bytes  received 93303 bytes  total size 31779883786
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Mon Sep 27 08:33:25 2021: (1632720805.46) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Mon Sep 27 08:34:38 2021: (1632720878.54) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:6  Changed files:350 
+   New/Changed dirs:31 Deleted:1 Total actions:488
+   Statistics: sent 467100741 bytes  received 93570 bytes  total size 31849649437
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Mon Sep 27 08:34:38 2021: (1632720878.54) Mirror Job ---DailyJobs--- completed:
+** Tue Sep 28 07:20:51 2021: (1632802851.36) Mirror Job ---DailyJobs--- starting.
+** Tue Sep 28 07:20:51 2021: (1632802851.37) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Tue Sep 28 07:28:42 2021: (1632803322.45) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:318  Changed files:698 
+   New/Changed dirs:5 Deleted:91 Total actions:1247
+   Statistics: sent 84314263 bytes  received 194811 bytes  total size 250655004025
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Tue Sep 28 07:28:42 2021: (1632803322.45) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Tue Sep 28 07:28:44 2021: (1632803324.38) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:24 Deleted:0 Total actions:104
+   Statistics: sent 41657 bytes  received 1495 bytes  total size 517960862
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Tue Sep 28 07:28:44 2021: (1632803324.38) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Tue Sep 28 07:30:01 2021: (1632803401.97) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:6  Changed files:350 
+   New/Changed dirs:31 Deleted:1 Total actions:488
+   Statistics: sent 467107800 bytes  received 93599 bytes  total size 31849659687
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Tue Sep 28 07:30:01 2021: (1632803401.97) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Tue Sep 28 07:31:16 2021: (1632803476.86) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:17  Changed files:500 
+   New/Changed dirs:13 Deleted:161 Total actions:814
+   Statistics: sent 428988937 bytes  received 102120 bytes  total size 31869930829
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Tue Sep 28 07:31:16 2021: (1632803476.86) Mirror Job ---DailyJobs--- completed:
+** Wed Sep 29 08:24:55 2021: (1632893095.62) Mirror Job ---DailyJobs--- starting.
+** Wed Sep 29 08:24:55 2021: (1632893095.64) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Wed Sep 29 08:32:11 2021: (1632893531.06) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:296  Changed files:869 
+   New/Changed dirs:0 Deleted:46 Total actions:1347
+   Statistics: sent 83569585 bytes  received 194802 bytes  total size 250683081957
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Wed Sep 29 08:32:11 2021: (1632893531.06) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Wed Sep 29 08:32:13 2021: (1632893533.34) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:33 Deleted:0 Total actions:143
+   Statistics: sent 42930 bytes  received 1647 bytes  total size 517960862
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Wed Sep 29 08:32:13 2021: (1632893533.34) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Wed Sep 29 08:33:29 2021: (1632893609.31) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:17  Changed files:500 
+   New/Changed dirs:13 Deleted:161 Total actions:814
+   Statistics: sent 428996222 bytes  received 102129 bytes  total size 31869941303
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Wed Sep 29 08:33:29 2021: (1632893609.31) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Wed Sep 29 08:34:44 2021: (1632893684.5) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:48  Changed files:370 
+   New/Changed dirs:7 Deleted:21 Total actions:548
+   Statistics: sent 656812854 bytes  received 95748 bytes  total size 31917241368
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Wed Sep 29 08:34:44 2021: (1632893684.5) Mirror Job ---DailyJobs--- completed:
+** Thu Sep 30 08:51:41 2021: (1632981101.42) Mirror Job ---DailyJobs--- starting.
+** Thu Sep 30 08:51:41 2021: (1632981101.44) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Thu Sep 30 08:59:27 2021: (1632981567.8) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:179  Changed files:892 
+   New/Changed dirs:3 Deleted:100 Total actions:1310
+   Statistics: sent 61675837 bytes  received 199128 bytes  total size 250685555286
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Thu Sep 30 08:59:27 2021: (1632981567.8) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Thu Sep 30 08:59:30 2021: (1632981570.03) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:13 Deleted:0 Total actions:104
+   Statistics: sent 43275 bytes  received 1546 bytes  total size 517960862
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Thu Sep 30 08:59:30 2021: (1632981570.03) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Thu Sep 30 09:00:48 2021: (1632981648.44) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:48  Changed files:370 
+   New/Changed dirs:7 Deleted:21 Total actions:548
+   Statistics: sent 656820165 bytes  received 95773 bytes  total size 31917251618
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Thu Sep 30 09:00:48 2021: (1632981648.44) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Thu Sep 30 09:02:01 2021: (1632981721.38) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:2  Changed files:339 
+   New/Changed dirs:7 Deleted:7 Total actions:449
+   Statistics: sent 412251617 bytes  received 93412 bytes  total size 31887541345
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Thu Sep 30 09:02:01 2021: (1632981721.38) Mirror Job ---DailyJobs--- completed:
+** Fri Oct  1 07:38:15 2021: (1633063095.41) Mirror Job ---DailyJobs--- starting.
+** Fri Oct  1 07:38:15 2021: (1633063095.42) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Fri Oct  1 07:45:46 2021: (1633063546.41) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:36  Changed files:43 
+   New/Changed dirs:0 Deleted:7 Total actions:110
+   Statistics: sent 24394452 bytes  received 169440 bytes  total size 250685062087
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Fri Oct  1 07:45:46 2021: (1633063546.41) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Fri Oct  1 07:45:48 2021: (1633063548.73) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:0 Deleted:19 Total actions:81
+   Statistics: sent 43095 bytes  received 2211 bytes  total size 517960862
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Fri Oct  1 07:45:48 2021: (1633063548.73) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Fri Oct  1 07:47:11 2021: (1633063631.51) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:20  Changed files:487 
+   New/Changed dirs:29 Deleted:40 Total actions:683
+   Statistics: sent 429334595 bytes  received 97945 bytes  total size 31883369454
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Fri Oct  1 07:47:11 2021: (1633063631.51) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Fri Oct  1 07:48:25 2021: (1633063705.29) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:32  Changed files:382 
+   New/Changed dirs:7 Deleted:22 Total actions:554
+   Statistics: sent 406338148 bytes  received 96035 bytes  total size 31885034277
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Fri Oct  1 07:48:25 2021: (1633063705.29) Mirror Job ---DailyJobs--- completed:
+** Mon Oct  4 07:35:54 2021: (1633322154.42) Mirror Job ---DailyJobs--- starting.
+** Mon Oct  4 07:35:54 2021: (1633322154.44) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Mon Oct  4 07:43:27 2021: (1633322607.19) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:252  Changed files:845 
+   New/Changed dirs:3 Deleted:171 Total actions:1424
+   Statistics: sent 151677544 bytes  received 208236 bytes  total size 250745440745
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Mon Oct  4 07:43:27 2021: (1633322607.19) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Mon Oct  4 07:43:29 2021: (1633322609.26) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:8 Deleted:0 Total actions:56
+   Statistics: sent 43345 bytes  received 1347 bytes  total size 517960862
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Mon Oct  4 07:43:29 2021: (1633322609.26) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Mon Oct  4 07:44:45 2021: (1633322685.62) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:32  Changed files:382 
+   New/Changed dirs:7 Deleted:22 Total actions:554
+   Statistics: sent 406345552 bytes  received 96032 bytes  total size 31885044653
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Mon Oct  4 07:44:45 2021: (1633322685.62) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Mon Oct  4 07:45:59 2021: (1633322759.17) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:5  Changed files:323 
+   New/Changed dirs:22 Deleted:11 Total actions:459
+   Statistics: sent 392101500 bytes  received 93516 bytes  total size 31791472649
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Mon Oct  4 07:45:59 2021: (1633322759.17) Mirror Job ---DailyJobs--- completed:
+** Tue Oct  5 00:35:02 2021: (1633383302.23) Mirror Job ---DailyJobs--- starting.
+** Tue Oct  5 00:35:02 2021: (1633383302.24) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Tue Oct  5 00:39:24 2021: (1633383564.66) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:373  Changed files:1376 
+   New/Changed dirs:4 Deleted:136 Total actions:2178
+   Statistics: sent 72469833 bytes  received 217711 bytes  total size 250750404755
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Tue Oct  5 00:39:24 2021: (1633383564.66) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Tue Oct  5 00:39:26 2021: (1633383566.32) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:13 Deleted:0 Total actions:187
+   Statistics: sent 44281 bytes  received 1829 bytes  total size 517960862
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Tue Oct  5 00:39:26 2021: (1633383566.32) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Tue Oct  5 00:40:41 2021: (1633383641.22) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:5  Changed files:323 
+   New/Changed dirs:22 Deleted:11 Total actions:459
+   Statistics: sent 392108980 bytes  received 93525 bytes  total size 31791484413
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Tue Oct  5 00:40:41 2021: (1633383641.22) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Tue Oct  5 00:41:31 2021: (1633383691.59) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:116  Changed files:514 
+   New/Changed dirs:10 Deleted:14 Total actions:767
+   Statistics: sent 562419076 bytes  received 99753 bytes  total size 31857130526
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Tue Oct  5 00:41:31 2021: (1633383691.59) Mirror Job ---DailyJobs--- completed:
+** Fri Oct  8 09:06:56 2021: (1633673216.17) Mirror Job ---DailyJobs--- starting.
+** Fri Oct  8 09:06:56 2021: (1633673216.19) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Fri Oct  8 09:14:06 2021: (1633673646.12) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:92  Changed files:602 
+   New/Changed dirs:1 Deleted:85 Total actions:855
+   Statistics: sent 41197473 bytes  received 188982 bytes  total size 250753089512
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Fri Oct  8 09:14:06 2021: (1633673646.12) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Fri Oct  8 09:14:08 2021: (1633673648.56) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:1  Changed files:0 
+   New/Changed dirs:2 Deleted:1 Total actions:91
+   Statistics: sent 57397 bytes  received 1535 bytes  total size 517961185
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Fri Oct  8 09:14:08 2021: (1633673648.56) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Fri Oct  8 09:15:26 2021: (1633673726.77) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:116  Changed files:514 
+   New/Changed dirs:10 Deleted:14 Total actions:767
+   Statistics: sent 562426665 bytes  received 99768 bytes  total size 31857140776
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Fri Oct  8 09:15:26 2021: (1633673726.77) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Fri Oct  8 09:16:39 2021: (1633673799.58) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:2  Changed files:359 
+   New/Changed dirs:13 Deleted:66 Total actions:539
+   Statistics: sent 437772702 bytes  received 96427 bytes  total size 31735899922
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Fri Oct  8 09:16:39 2021: (1633673799.58) Mirror Job ---DailyJobs--- completed:
+** Mon Oct 11 07:13:50 2021: (1633925630.39) Mirror Job ---DailyJobs--- starting.
+** Mon Oct 11 07:13:50 2021: (1633925630.41) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Mon Oct 11 07:21:34 2021: (1633926094.51) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:75  Changed files:213 
+   New/Changed dirs:5 Deleted:25 Total actions:380
+   Statistics: sent 47845263 bytes  received 175620 bytes  total size 250760140212
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Mon Oct 11 07:21:34 2021: (1633926094.51) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Mon Oct 11 07:21:36 2021: (1633926096.46) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:0 Deleted:0 Total actions:0
+   Statistics: sent 43822 bytes  received 1196 bytes  total size 517961185
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Mon Oct 11 07:21:36 2021: (1633926096.46) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Mon Oct 11 07:22:52 2021: (1633926172.9) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:2  Changed files:359 
+   New/Changed dirs:13 Deleted:66 Total actions:539
+   Statistics: sent 437780226 bytes  received 96432 bytes  total size 31735910172
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Mon Oct 11 07:22:52 2021: (1633926172.9) Mirror / to /OS_Copies/MainServerD2 starting.
+-- Mon Oct 11 07:24:01 2021: (1633926241.87) Mirror / to /OS_Copies/MainServerD2 failed:
+  rsync: readlink_stat("/media/m_kigazi/KIGAZI") failed: Permission denied (13)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1183) [sender=3.1.1]
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+-- Mon Oct 11 07:24:01 2021: (1633926241.87) Mirror Job ---DailyJobs--- failed:
+  
+** Tue Oct 12 09:43:49 2021: (1634021029.27) Mirror Job ---DailyJobs--- starting.
+** Tue Oct 12 09:43:49 2021: (1634021029.28) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Tue Oct 12 09:51:10 2021: (1634021470.39) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:69  Changed files:336 
+   New/Changed dirs:1 Deleted:34 Total actions:530
+   Statistics: sent 46940586 bytes  received 178613 bytes  total size 250759816680
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Tue Oct 12 09:51:10 2021: (1634021470.39) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Tue Oct 12 09:51:12 2021: (1634021472.67) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:1  Changed files:0 
+   New/Changed dirs:10 Deleted:0 Total actions:121
+   Statistics: sent 44838 bytes  received 1607 bytes  total size 517961341
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Tue Oct 12 09:51:12 2021: (1634021472.67) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Tue Oct 12 09:52:29 2021: (1634021549.01) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:41  Changed files:306 
+   New/Changed dirs:9 Deleted:0 Total actions:451
+   Statistics: sent 445741012 bytes  received 93224 bytes  total size 31744797785
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Tue Oct 12 09:52:29 2021: (1634021549.01) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Tue Oct 12 09:54:10 2021: (1634021650.26) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:246  Changed files:362 
+   New/Changed dirs:36 Deleted:12 Total actions:763
+   Statistics: sent 3878419010 bytes  received 99361 bytes  total size 34953860545
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Tue Oct 12 09:54:10 2021: (1634021650.26) Mirror Job ---DailyJobs--- completed:
+** Wed Oct 13 07:48:52 2021: (1634100532.96) Mirror Job ---DailyJobs--- starting.
+** Wed Oct 13 07:48:52 2021: (1634100532.98) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Wed Oct 13 07:58:01 2021: (1634101081.32) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:84  Changed files:183 
+   New/Changed dirs:1 Deleted:29 Total actions:349
+   Statistics: sent 67339960 bytes  received 174673 bytes  total size 250768580757
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Wed Oct 13 07:58:01 2021: (1634101081.32) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Wed Oct 13 07:58:03 2021: (1634101083.39) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:8 Deleted:0 Total actions:56
+   Statistics: sent 44725 bytes  received 1403 bytes  total size 517961341
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Wed Oct 13 07:58:03 2021: (1634101083.39) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Wed Oct 13 08:01:00 2021: (1634101260.85) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:246  Changed files:362 
+   New/Changed dirs:36 Deleted:12 Total actions:763
+   Statistics: sent 3878426471 bytes  received 99298 bytes  total size 34953870795
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Wed Oct 13 08:01:00 2021: (1634101260.99) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Wed Oct 13 08:03:27 2021: (1634101407.96) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:2  Changed files:372 
+   New/Changed dirs:17 Deleted:242 Total actions:751
+   Statistics: sent 464253839 bytes  received 111889 bytes  total size 31769437386
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Wed Oct 13 08:03:27 2021: (1634101407.96) Mirror Job ---DailyJobs--- completed:
+** Fri Oct 15 08:22:11 2021: (1634275331.01) Mirror Job ---DailyJobs--- starting.
+** Fri Oct 15 08:22:11 2021: (1634275331.03) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Fri Oct 15 08:29:33 2021: (1634275773.97) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:47  Changed files:339 
+   New/Changed dirs:0 Deleted:57 Total actions:487
+   Statistics: sent 42498366 bytes  received 179749 bytes  total size 250768737757
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Fri Oct 15 08:29:33 2021: (1634275773.97) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Fri Oct 15 08:29:36 2021: (1634275776.25) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:21 Deleted:0 Total actions:152
+   Statistics: sent 45709 bytes  received 1709 bytes  total size 517961341
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Fri Oct 15 08:29:36 2021: (1634275776.25) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Fri Oct 15 08:30:52 2021: (1634275852.27) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:2  Changed files:372 
+   New/Changed dirs:17 Deleted:242 Total actions:751
+   Statistics: sent 464261501 bytes  received 111902 bytes  total size 31769447636
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Fri Oct 15 08:30:52 2021: (1634275852.28) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Fri Oct 15 08:32:16 2021: (1634275936.2) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:7  Changed files:353 
+   New/Changed dirs:9 Deleted:20 Total actions:493
+   Statistics: sent 695244273 bytes  received 94743 bytes  total size 31979412220
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Fri Oct 15 08:32:16 2021: (1634275936.2) Mirror Job ---DailyJobs--- completed:
+** Thu Oct 21 09:09:51 2021: (1634796591.45) Mirror Job ---DailyJobs--- starting.
+** Thu Oct 21 09:09:51 2021: (1634796591.52) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Thu Oct 21 09:19:43 2021: (1634797183.84) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:64  Changed files:209 
+   New/Changed dirs:2 Deleted:24 Total actions:364
+   Statistics: sent 49496774 bytes  received 174824 bytes  total size 250772969811
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Thu Oct 21 09:19:43 2021: (1634797183.84) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Thu Oct 21 09:19:45 2021: (1634797185.58) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:4 Deleted:0 Total actions:91
+   Statistics: sent 45706 bytes  received 1585 bytes  total size 517961341
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Thu Oct 21 09:19:45 2021: (1634797185.58) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Thu Oct 21 09:21:05 2021: (1634797265.2) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:7  Changed files:353 
+   New/Changed dirs:9 Deleted:20 Total actions:493
+   Statistics: sent 695251845 bytes  received 94736 bytes  total size 31979422470
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Thu Oct 21 09:21:05 2021: (1634797265.21) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Thu Oct 21 09:22:22 2021: (1634797342.36) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:10  Changed files:356 
+   New/Changed dirs:22 Deleted:89 Total actions:581
+   Statistics: sent 735702662 bytes  received 96921 bytes  total size 32161538224
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Thu Oct 21 09:22:22 2021: (1634797342.36) Mirror Job ---DailyJobs--- completed:
+** Sat Oct 23 08:35:26 2021: (1634967326.68) Mirror Job ---DailyJobs--- starting.
+** Sat Oct 23 08:35:26 2021: (1634967326.7) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Sat Oct 23 08:43:37 2021: (1634967817.87) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:111  Changed files:428 
+   New/Changed dirs:3 Deleted:19 Total actions:667
+   Statistics: sent 62316951 bytes  received 179748 bytes  total size 250788223957
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Sat Oct 23 08:43:37 2021: (1634967817.87) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Sat Oct 23 08:43:39 2021: (1634967819.96) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:1  Changed files:0 
+   New/Changed dirs:9 Deleted:0 Total actions:66
+   Statistics: sent 46091 bytes  received 1470 bytes  total size 517961497
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Sat Oct 23 08:43:39 2021: (1634967819.96) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Sat Oct 23 08:45:02 2021: (1634967902.36) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:10  Changed files:356 
+   New/Changed dirs:22 Deleted:89 Total actions:581
+   Statistics: sent 735710179 bytes  received 96930 bytes  total size 32161548474
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Sat Oct 23 08:45:02 2021: (1634967902.36) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Sat Oct 23 08:46:21 2021: (1634967981.28) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:105  Changed files:461 
+   New/Changed dirs:123 Deleted:16 Total actions:828
+   Statistics: sent 540955449 bytes  received 99102 bytes  total size 32159720418
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Sat Oct 23 08:46:21 2021: (1634967981.28) Mirror Job ---DailyJobs--- completed:
+** Tue Oct 26 07:54:29 2021: (1635224069.63) Mirror Job ---DailyJobs--- starting.
+** Tue Oct 26 07:54:29 2021: (1635224069.64) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Tue Oct 26 08:02:07 2021: (1635224527.97) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:59  Changed files:261 
+   New/Changed dirs:1 Deleted:66 Total actions:428
+   Statistics: sent 42165984 bytes  received 181946 bytes  total size 250793389818
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Tue Oct 26 08:02:07 2021: (1635224527.97) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Tue Oct 26 08:02:10 2021: (1635224530.15) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:4 Deleted:0 Total actions:32
+   Statistics: sent 45922 bytes  received 1358 bytes  total size 517961497
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Tue Oct 26 08:02:10 2021: (1635224530.15) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Tue Oct 26 08:03:28 2021: (1635224608.3) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:105  Changed files:461 
+   New/Changed dirs:123 Deleted:16 Total actions:828
+   Statistics: sent 540962575 bytes  received 99135 bytes  total size 32159730794
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Tue Oct 26 08:03:28 2021: (1635224608.3) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Tue Oct 26 08:04:43 2021: (1635224683.37) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:13  Changed files:322 
+   New/Changed dirs:14 Deleted:7 Total actions:469
+   Statistics: sent 631856798 bytes  received 93610 bytes  total size 32079900704
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Tue Oct 26 08:04:43 2021: (1635224683.37) Mirror Job ---DailyJobs--- completed:
+** Mon Nov  1 10:10:18 2021: (1635750618.53) Mirror Job ---DailyJobs--- starting.
+** Mon Nov  1 10:10:18 2021: (1635750618.56) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Mon Nov  1 10:19:03 2021: (1635751143.08) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:104  Changed files:423 
+   New/Changed dirs:8 Deleted:47 Total actions:661
+   Statistics: sent 141072227 bytes  received 182892 bytes  total size 250853596155
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Mon Nov  1 10:19:03 2021: (1635751143.08) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Mon Nov  1 10:19:05 2021: (1635751145.01) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:0  Changed files:0 
+   New/Changed dirs:5 Deleted:0 Total actions:142
+   Statistics: sent 46441 bytes  received 1708 bytes  total size 517961497
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Mon Nov  1 10:19:05 2021: (1635751145.01) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Mon Nov  1 10:20:30 2021: (1635751230.85) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:13  Changed files:322 
+   New/Changed dirs:14 Deleted:7 Total actions:469
+   Statistics: sent 631863894 bytes  received 93643 bytes  total size 32079911053
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Mon Nov  1 10:20:30 2021: (1635751230.88) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Mon Nov  1 10:21:50 2021: (1635751310.79) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:20  Changed files:404 
+   New/Changed dirs:15 Deleted:182 Total actions:753
+   Statistics: sent 611759883 bytes  received 100235 bytes  total size 32119975289
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Mon Nov  1 10:21:50 2021: (1635751310.79) Mirror Job ---DailyJobs--- completed:
+** Tue Nov  2 07:56:04 2021: (1635828964.68) Mirror Job ---DailyJobs--- starting.
+** Tue Nov  2 07:56:04 2021: (1635828964.72) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
+++ Tue Nov  2 08:05:04 2021: (1635829504.33) Mirror /client_home/ to /OS_Copies/ClientHomeCopy completed:  
+   New files:24  Changed files:159 
+   New/Changed dirs:0 Deleted:9 Total actions:216
+   Statistics: sent 25637338 bytes  received 171617 bytes  total size 250853597941
+  /OS_Copies/ClientHomeCopy unmounted.
+
+** Tue Nov  2 08:05:04 2021: (1635829504.33) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy starting.
+++ Tue Nov  2 08:05:09 2021: (1635829509.06) Mirror /client_home_students/ to /OS_Copies/ClientHomeStudentsCopy completed:  
+   New files:1295  Changed files:0 
+   New/Changed dirs:251 Deleted:0 Total actions:1706
+   Statistics: sent 107560986 bytes  received 27595 bytes  total size 625342172
+  /OS_Copies/ClientHomeStudentsCopy unmounted.
+
+** Tue Nov  2 08:05:09 2021: (1635829509.06) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy starting.
+++ Tue Nov  2 08:06:29 2021: (1635829589.46) Mirror /OS_Copies/MainServerD2/ to /OS_Copies/MainServerCopy completed:  
+   New files:20  Changed files:404 
+   New/Changed dirs:15 Deleted:182 Total actions:753
+   Statistics: sent 611767228 bytes  received 100264 bytes  total size 32119985539
+  /OS_Copies/MainServerD2/ unmounted.
+  /OS_Copies/MainServerCopy unmounted.
+
+** Tue Nov  2 08:06:29 2021: (1635829589.47) Mirror / to /OS_Copies/MainServerD2 starting.
+++ Tue Nov  2 08:07:47 2021: (1635829667.68) Mirror / to /OS_Copies/MainServerD2 completed:  
+   New files:115  Changed files:584 
+   New/Changed dirs:108 Deleted:23 Total actions:971
+   Statistics: sent 792440329 bytes  received 102814 bytes  total size 32171406238
+  /OS_Copies/MainServerD2 unmounted.
+   /dev/sdb set to standby (not spinning).
+
+++ Tue Nov  2 08:07:47 2021: (1635829667.68) Mirror Job ---DailyJobs--- completed:
+** Wed Mar  2 09:53:29 2022: (1646204009.36) Mirror Job ---DailyJobs--- starting.
+** Wed Mar  2 09:53:29 2022: (1646204009.37) Mirror /client_home/ to /OS_Copies/ClientHomeCopy starting.
